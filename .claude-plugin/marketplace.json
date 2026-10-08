@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "note-writing-skills",
+  "description": "note記事の執筆スキル集",
+  "owner": {
+    "name": "yoshi-takad"
+  },
+  "plugins": [
+    {
+      "name": "note-writing-skills",
+      "description": "noteの記事を、書き手本人の経験から6ステップで設計して書くスキル集。エッセイ用・ノウハウ用・不自然な日本語を直す仕上げ(yomiyasu同梱)",
+      "version": "0.1.0",
+      "author": {
+        "name": "yoshi-takad"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/yoshi-takad/note-writing-skills",
+      "repository": "https://github.com/yoshi-takad/note-writing-skills",
+      "license": "MIT"
+    }
+  ]
+}
